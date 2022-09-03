@@ -1,0 +1,14 @@
+{
+  "nextId": 2,
+  "cadastro": [
+    {
+      "name": " ",
+      "email": " "
+    },
+    {
+      "id": 1,
+      "name": "Filipe",
+      "email": "filiperabelo960@yahoo.com.br"
+    }
+  ]
+}
